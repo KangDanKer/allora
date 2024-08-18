@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source <(curl -s https://raw.githubusercontent.com/bangpateng/symphony/main/logo.sh)
+source <(curl -s https://raw.githubusercontent.com/KangDanKer/pp/main/pp.sh)
 
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev curl git wget make jq build-essential pkg-config lsb-release libssl-dev libreadline-dev libffi-dev gcc screen unzip lz4 python3 python3-pip
